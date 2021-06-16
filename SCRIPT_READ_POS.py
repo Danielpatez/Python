@@ -43,7 +43,7 @@ def leitura (arq, name):
             coluna=0
             for a in range(0,(n)):
 
-                #contvet+=1
+                
                 if ls[a]!='':
                     coluna+=1
 
