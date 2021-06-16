@@ -163,6 +163,6 @@ name= 'vico0570'
 leitura(arq,name)
 
 print("\n...\n\nProcesso Concluido com sucesso.")
-time.sleep(4)    # pause 5.5 seconds
+time.sleep(4)    # pause 4 seconds
 SystemExit()
        
